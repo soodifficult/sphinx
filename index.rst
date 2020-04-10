@@ -8,12 +8,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 开发者指南
-
-   QuickStart.md
-
-.. toctree::
-   :maxdepth: 2
    :caption: 用户手册
 
    test.rst
